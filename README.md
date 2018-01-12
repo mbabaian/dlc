@@ -6,8 +6,10 @@ This session will explore ways in which a school library can promote a coding cu
 
 ## Online resources
 
+
 ## Books
 
 ## Librarians Learning to Code
+    [We Teach CS]https://www.weteachcs.org/
 
-## Where to Go for Help
+## Where to Go for Help"# dlc" 
