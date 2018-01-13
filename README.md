@@ -6,7 +6,7 @@ Thursday, January 18, 2018
 
 This session will explore ways in which a school library can promote a coding culture beyond the Hour of Code. Topics covered in the session include collection development to promote coding, finding open source materials, and helping students build collaborative skills through coding activities. 
 
-Email: monica.babaian@gmail.com
+Email: :envelope: monica.babaian@gmail.com
 
 Twitter: [@txlibrarianbabs](https://twitter.com/txlibrarianbabs)
 
@@ -31,7 +31,7 @@ Twitter: [@txlibrarianbabs](https://twitter.com/txlibrarianbabs)
 - [edX courses](https://www.edx.org/)
 
 ## Books
-###Elementary
+### Elementary
 
 **[No Starch Press](https://nostarch.com/catalog/kids) has tons of programming books for younger kids, including:**
 - [Scratch Programming Playground - Online Version](https://inventwithscratch.com/book/)
@@ -39,7 +39,7 @@ Twitter: [@txlibrarianbabs](https://twitter.com/txlibrarianbabs)
 - [Teach Your Kids to Code](https://www.amazon.com/Teach-Your-Kids-Code-Parent-Friendly/dp/1593276141/ref=sr_1_1?s=books&ie=UTF8&qid=1515781758&sr=1-1&keywords=teach+your+kids+to+code)
 - [Automate the Minecraft Stuff](https://www.amazon.com/Automate-Minecraft-Stuff-Mine-Build/dp/1593278535/ref=sr_1_1?ie=UTF8&qid=1515781821&sr=8-1&keywords=automate+the+minecraft+stuff)
 
-###Secondary and Up
+### Secondary and Up
 
 - [Learn to Program with Scratch](https://www.amazon.com/Learn-Program-Scratch-Introduction-Programming/dp/1593275439/ref=sr_1_1?s=books&ie=UTF8&qid=1515782150&sr=1-1&keywords=learn+to+program+with+scratch)
 - [Invent Your Own Games with Python](https://inventwithpython.com/invent4thed/)
@@ -62,16 +62,18 @@ Twitter: [@txlibrarianbabs](https://twitter.com/txlibrarianbabs)
 - [We Teach CS](https://www.weteachcs.org/)
 
 ## Project Hosting
-###HTML/CSS/JavaScript
+### Front End (mostly beginner level projects)
 - [codepen](https://codepen.io/)
 - [Surge.sh](http://surge.sh/)
+
+### Full Stack (more advanced projects)
+- [Heroku](https://dashboard.heroku.com/)
+- [Glitch](https://glitch.com/)
 
 ## Where to Go for Help 
 - Start with a [Google](www.google.com) search
 - [freeCodeCamp forums](https://forum.freecodecamp.org/)
+- Learn how to read the [MDN](https://developer.mozilla.org/en-US/) docs
 - [Stack Overflow](https://stackoverflow.com/)
 - [YouTube](https://www.youtube.com/) tutorials
 - Find a [Slack](https://slack.com/) channel to join
-
-
-
