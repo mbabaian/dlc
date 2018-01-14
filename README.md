@@ -41,7 +41,6 @@ Twitter: [@txlibrarianbabs](https://twitter.com/txlibrarianbabs)
 - [Automate the Minecraft Stuff](https://www.amazon.com/Automate-Minecraft-Stuff-Mine-Build/dp/1593278535/ref=sr_1_1?ie=UTF8&qid=1515781821&sr=8-1&keywords=automate+the+minecraft+stuff)
 
 ### Secondary and Up
-
 - [Learn to Program with Scratch](https://www.amazon.com/Learn-Program-Scratch-Introduction-Programming/dp/1593275439/ref=sr_1_1?s=books&ie=UTF8&qid=1515782150&sr=1-1&keywords=learn+to+program+with+scratch)
 - [Invent Your Own Games with Python](https://inventwithpython.com/invent4thed/)
 - [Build An HTML5 Game](https://nostarch.com/html5game)
@@ -63,9 +62,11 @@ Twitter: [@txlibrarianbabs](https://twitter.com/txlibrarianbabs)
 
 ## Librarians Learning to Code
 ### Articles
-[Why you should have your own Twitter bot, and how you can build one in less than 30 minutes](https://medium.freecodecamp.org/easily-set-up-your-own-twitter-bot-4aeed5e61f7f)
+[Teaching Kids to Code While Learning English](https://medium.com/chingu/teaching-kids-to-code-while-learning-english-fee0454a7104)
 
 [The Quick and Dirty Way for School Librarians to Get Coding](https://medium.com/@monica.babaian/the-quick-and-dirty-way-for-school-librarians-to-get-coding-9a8313ef98a)
+
+[Why you should have your own Twitter bot, and how you can build one in less than 30 minutes](https://medium.freecodecamp.org/easily-set-up-your-own-twitter-bot-4aeed5e61f7f)
 
 ### Beginner Coding Lessons
 - [Computer Programming at Khan Academy](https://www.khanacademy.org/computing/computer-programming)
