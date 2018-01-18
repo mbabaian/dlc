@@ -62,11 +62,18 @@ Twitter: [@txlibrarianbabs](https://twitter.com/txlibrarianbabs)
 
 ## Librarians Learning to Code
 ### Articles
+
+[What It’s Like To Build and Market a Chatbot When You’re Only 14 Years Old](https://medium.freecodecamp.org/the-ups-and-downs-of-building-and-marketing-a-chat-bot-when-youre-14-8a072830b43c)
+
 [Teaching Kids to Code While Learning English](https://medium.com/chingu/teaching-kids-to-code-while-learning-english-fee0454a7104)
 
 [The Quick and Dirty Way for School Librarians to Get Coding](https://medium.com/@monica.babaian/the-quick-and-dirty-way-for-school-librarians-to-get-coding-9a8313ef98a)
 
+[Build a “Serverless” Slack Bot in 9 Minutes with Node.js and StdLib](https://medium.com/slack-developer-blog/build-a-serverless-slack-bot-in-9-minutes-with-node-js-and-stdlib-b993cfa15358)
+
 [Why you should have your own Twitter bot, and how you can build one in less than 30 minutes](https://medium.freecodecamp.org/easily-set-up-your-own-twitter-bot-4aeed5e61f7f)
+
+
 
 ### Beginner Coding Lessons
 - [Computer Programming at Khan Academy](https://www.khanacademy.org/computing/computer-programming)
